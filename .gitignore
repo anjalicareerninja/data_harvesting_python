@@ -1,0 +1,7 @@
+.cursor/
+codes/
+data1/
+logs/
+.env
+*.ipynb
+*.csv   (maybe — depends)
